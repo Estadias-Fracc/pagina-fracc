@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-car",
+        "count": "1,995",
+        "title": "Total Entrada Semanal"
+    },
+    {
+        "icon": "bx bx-history",
+        "count": "2,001",
+        "title": "Interacciones Diarias"
+    },
+    {
+        "icon": "bx bxs-car",
+        "count": "2,632",
+        "title": "Total Salidas Semanal"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "1,711",
+        "title": "Total Semanal"
+    }
+]
